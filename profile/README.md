@@ -18,3 +18,7 @@ This is a hub for open source protocol rust code owned by and built for contribu
 #### Licensing
 
 All code, designs, and otherwise intellectual property of repositories within the anton-rs organization, unless otherwise explicitly expressed in both the project specification and project repository, are licensed under the [MIT License](https://opensource.org/license/mit/).
+
+#### Logo
+
+Artist: https://x.com/ttyl5h
